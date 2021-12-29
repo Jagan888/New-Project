@@ -1,0 +1,16 @@
+@media (max-width: 1920px) {
+
+    .сontent {
+      width: 90vw;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+   
+   .h1{
+     align-content: center;
+   }
+  }
+  
+ 
